@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/digitalinnovationone/brand-kit/main/Logo/PNG/DIO_Logotipo_Negativo.png" width="200" alt="DIO Logo"/>
-</p>
 
 <h1 align="center">Simulação de Malwares em Python: Ransomware e Keylogger</h1>
 
