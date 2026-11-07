@@ -1,0 +1,12 @@
+# Ambientes virtuais Python
+.venv/
+venv/
+ENV/
+env/
+
+# Arquivos de log e senhas reais
+secret.key
+*.log
+__pycache__/
+*.py[cod]
+*$py.class
